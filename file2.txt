@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is file 2 and in master
+=======
+this is file 2 and in b1
+>>>>>>> b1
